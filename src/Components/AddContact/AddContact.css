@@ -1,0 +1,28 @@
+.link{
+	font-size: 30px;
+	
+	margin-left: 5vw;
+}
+
+.form{
+	margin-top: 5vh;
+	margin-left: 5vw;
+}
+
+label{
+	font-size: 30px;
+}
+input{
+	width: 20vw;
+	height: 3vh;
+}
+.addButton1{
+  background-color: #529418;
+  width: auto;
+  height: 5vh;
+}
+
+.twoWayBindingContent{
+	margin-left: 5vw;
+	font-size: 30px;
+}
